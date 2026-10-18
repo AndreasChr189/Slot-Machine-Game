@@ -1,8 +1,26 @@
-# Slot-Machine-Game
-a simple slot machine game with interactive menus. Made in python using pygame
+# Slot Machine Game
 
-Requirements:
-Need to have pygame installed
+A simple slot machine game with interactive menus, developed in Python using Pygame.
 
-Running instructions:
-Simply run the python file using "py .\game.py"  
+## Requirements
+
+- Python 3
+- Pygame
+
+## Installation
+
+Install Pygame by running the following command in your terminal:
+
+```bash
+py -m pip install pygame
+```
+
+## Running the Game
+
+1. Download or clone this repository.
+2. Open a terminal in the folder containing `game.py`.
+3. Run the following command:
+
+```bash
+py .\game.py
+```
